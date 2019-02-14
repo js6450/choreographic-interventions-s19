@@ -89,9 +89,6 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Examples:
       * [Drawing Lines](http://editor.p5js.org/move.mimi/sketches/ByPtNLI4z) | [Fullscreen](http://editor.p5js.org/embed/ByPtNLI4z) | 1-Mode-At-A-Time: [0](http://editor.p5js.org/move.mimi/sketches/SJwTOF8Ez) | [1](http://editor.p5js.org/move.mimi/sketches/HyNmKKL4f) | [2](http://editor.p5js.org/move.mimi/sketches/SkEk9KUNM) | [3](http://editor.p5js.org/move.mimi/sketches/ByPfqt84f)
       * [Drawing a Trail](http://editor.p5js.org/move.mimi/sketches/H1flrLLVG) | [Fullscreen](http://editor.p5js.org/embed/H1flrLLVG)
-      * [Kinect Skeleton](http://editor.p5js.org/move.mimi/sketches/rJPcXh84z)
-      * Kinect Skeleton - Draw Lines - 4 modes: [Code](http://editor.p5js.org/move.mimi/sketches/ByQxNn8NG)
-      * Kinect Skeleton - Draw Trails: [Code](https://editor.p5js.org/move.mimi/sketches/rkji-ofz4)
 
 ### Assignment
    * For background on approaches to movement improvisation:
@@ -120,21 +117,29 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Interacting with a static pathway (rope)
    * Interacting with moving pathways
    * Resources
+      * [Bobby McFerrin](https://www.youtube.com/watch?v=DoNIOqUz9NM)
       * [Pathways Tutorial](https://docs.google.com/document/d/1YsZ_6vcZ0FXrp_Bd0acECLyZfL7bsRNBAf1evvVJADI/edit?usp=sharing)
    * Examples
+      * Drawing a Trail
+         * [Drawing a Trail](http://editor.p5js.org/move.mimi/sketches/H1flrLLVG) | [Fullscreen](http://editor.p5js.org/embed/H1flrLLVG)
+         * [Easing](https://editor.p5js.org/move.mimi/sketches/H1NWIIL4z)
       * Linear Pathways
          * [Linear Pathway](http://editor.p5js.org/move.mimi/sketches/rJWBguUNf)
          * [Linear Pathway - Deconstructed](http://editor.p5js.org/move.mimi/sketches/rJnOzuI4M)
          * Linear Pathway with Controls: [Code](https://editor.p5js.org/move.mimi/sketches/rkMpbedVM) | [Fullscreen](https://editor.p5js.org/move.mimi/embed/rkMpbedVM)
+         * [Moving in a Line](https://editor.p5js.org/move.mimi/sketches/uB9bQRVc7) | [Fullscreen](https://editor.p5js.org/move.mimi/embed/uB9bQRVc7)
       * Random
          * [Random Pathway](http://editor.p5js.org/move.mimi/sketches/HkL0VOUVf)
-         * [Graphing Random](http://editor.p5js.org/move.mimi/sketches/SkwF9OLEM)
+         * [Graphing Random](https://editor.p5js.org/move.mimi/sketches/S1yCHuU4M)
          * [Random Intervals](http://alpha.editor.p5js.org/move.mimi/sketches/SkwF9OLEM) | [Fullscreen](http://alpha.editor.p5js.org/move.mimi/embed/SkwF9OLEM)
          * Random Pathway with Controls: [Code](http://editor.p5js.org/move.mimi/sketches/ByBuJtIEz) | [Fullscreen](http://editor.p5js.org/embed/ByBuJtIEz)
 
 ### Assignment: Study No. 1 Random Pathways
-   * Choreograph a 15 - 180 second generative random pathway. (You may either write your own code or use one of the examples.) At least 1 parameter need to change over time. Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. Think about the linear pathways that are baked into Random Pathways.
-      * How to run floor examples. [Tutorial](https://docs.google.com/document/d/1v2x_LoNRcIgxdT60D9pFB2P_TtZ8J1OCHYD9HvUfCIs/edit?usp=sharing)
+   * Choreograph a 15 - 180 second generative random pathway that contains 2 ideas. (You may either write your own code or use the interactive example.) 
+      * At least 1 parameter needs to change over time. 
+      * Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. Use the [Random Pathway with Controls](http://editor.p5js.org/embed/ByBuJtIEz) to explore ideas.
+      * Think about the linear pathways that are baked into Random Pathways.
+      * Discuss and **diagram** choreographic possibilities for how to interact with your pathway. 
       * Post a link to the code you will demo with here: [Assignment Page](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Assisgnments#week-2-random-pathways)
    * Complete [Chapter 1.4-1.5](https://docs.google.com/document/d/1xRnvFgyshha6Tb7eTgs2HTDty515DIfkWb6leiZ2j2U/edit?usp=sharing) of the Workbook
 
@@ -254,7 +259,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * Rei Kawakubo: Shifting your center of gravity. [Scenario by Merce Cunningham](https://www.youtube.com/watch?v=MBlzeehZIeE)
       * Examples:
          * [Moving Bezier](http://alpha.editor.p5js.org/mimi/sketches/Hkbojc0Ie)
-         * [Slit-scan Video](https://github.com/mimiyin/sense-me-move-me/tree/master/02_body/SlitScan)
+         * [Slit-scan Video](https://editor.p5js.org/dansakamoto/sketches/H1s4fymqQ)
          * [Skeleton with 2D Shapes](https://editor.p5js.org/move.mimi/sketches/rk54oI0EG)
          * [Skeleton with 3D Shapes](https://editor.p5js.org/move.mimi/sketches/HkWvsLR4z)
          * [Kinect2 Examples for Processing Java on PC](https://drive.google.com/open?id=1g3RyZycZVA3hD2sH1Q2rVUXjGyct9qnZ)
